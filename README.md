@@ -1,9 +1,9 @@
 
 ### [Algorithms](Algorithms.md)
-## [Machine Learning](machineLearning.md)
-## [Python programming](python.md)
-## [Spectroscopy](spectroscopy.md)
-## [Probablility and Statistics](probstats.md)
+### [Machine Learning](machineLearning.md)
+### [Python programming](python.md)
+### [Spectroscopy](spectroscopy.md)
+### [Probablility and Statistics](probstats.md)
 
 These pages document my past, present and future research works. I summarize these works with publication/code links where applicable.
 
