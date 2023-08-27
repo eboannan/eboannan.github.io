@@ -1,9 +1,5 @@
 
-### [Algorithms](Algorithms.md)
-### Machine Learning
-### Python
-### Spectroscopy
-### Chemistry
+### [Algorithms](Algorithms.md)    Machine Learning    Python    Spectroscopy    Chemistry
 
 These pages document my past, present and future research works.
 
