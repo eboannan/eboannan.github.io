@@ -1,4 +1,4 @@
-### Ebo Ewusi-Annan
+
 ### Algorithms
 ### Machine Learning
 ### Python
