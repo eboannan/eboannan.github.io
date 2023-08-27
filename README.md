@@ -1,8 +1,8 @@
 ### Algorithms
-## Machine Learning
-## Python
-## Spectroscopy
-## Chemistry
+### Machine Learning
+### Python
+### Spectroscopy
+### Chemistry
 
 These pages document my past, present and future research works.
 
@@ -47,7 +47,7 @@ I am currently a Senior Algorithms Development Scientist at [Nova Measuring Inst
 
 - Approach for automatic fitting of emission lines in LIBS spectra.
 
-© 2023 Ebo Ewusi-Annan
+
 
 
 
