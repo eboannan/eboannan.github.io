@@ -1,5 +1,5 @@
 
-### Algorithms
+### [Algorithms](Algorithms.md)
 ### Machine Learning
 ### Python
 ### Spectroscopy
