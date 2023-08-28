@@ -1,4 +1,4 @@
- [Publications](#publications)     &emsp [Codes](#codes)
+ [Publications](#publications).................. [Codes](#codes)
 
 These pages document my past, present and future research works. I summarize these works with publication/code links where applicable.
 
