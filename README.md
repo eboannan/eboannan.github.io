@@ -1,6 +1,6 @@
  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Publications](#publications)&emsp;&emsp;&emsp;[Codes](#codes)
 
- ## About
+## About
 These pages document my past, present and future research works. I summarize these works with publication/code links where applicable.
 You will also find tutorials, writings and musings on various topics on python programming, machine learning, spectroscopy, statistics and probability.
 
