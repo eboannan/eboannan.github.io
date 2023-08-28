@@ -1,10 +1,9 @@
- [Publications](#publications).................. [Codes](#codes)
- 
-These pages document my past, present and future research works. I summarize these works with publication/code links where applicable.
+ [Publications](#publications)&emsp;&emsp;&emsp;[Codes](#codes)
 
+ ## About
+These pages document my past, present and future research works. I summarize these works with publication/code links where applicable.
 You will also find tutorials, writings and musings on various topics on python programming, machine learning, spectroscopy, statistics and probability.
 
-## About Me
 I obtained my PhD in Physical Chemistry from the University of Florida doing research in Laser-induced Breakdown Spectroscopy (LIBS). I investigated the use of molecular species formed during LIBS as an analytical quantification technique.
 
 After my doctorate, I did a one year postdoc at the Optical Science Center for Applied Research in Delaware. Whiles there,  I did work on using machine learning on LIBS spectra for detecting ovarian cancer in mice.
