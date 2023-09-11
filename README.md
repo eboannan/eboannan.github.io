@@ -50,8 +50,34 @@ When designinig a class in python, you should be guided by the SOLID principles:
 4. <span style="color:red">**I**</span>nterface segregation
 5. <span style="color:red">**D**</span>ependency inversion
 
-### Design Principles
-Knowing the design patterns allows you to easily write robust code using time-tested techniques. It also facilitates common-ground collaboration and communications among developers. I will cover the common 23 design patterns summarized by the Gang of Four.
+### Design Patterns
+Knowing the design patterns allows you to easily write robust code using time-tested techniques. It also facilitates common-ground collaboration and communications among developers. I will cover the common 23 design patterns summarized by the Gang of Four:
+a. Creational:
+ &emsp;&emsp;1. Factory
+ &emsp;&emsp;2. Abstract Factory
+ &emsp;&emsp;3. Prototype
+ &emsp;&emsp;4. Singleton
+ &emsp;&emsp;6. Builder
+b. Structural:
+&emsp;&emsp;7. Adapter
+&emsp;&emsp;8. Bridge
+&emsp;&emsp;9. Composite
+&emsp;&emsp;10. Decorator
+&emsp;&emsp;11. Facade
+&emsp;&emsp;12. Flyweight
+&emsp;&emsp;13. Proxy
+c. Behavioral:
+&emsp;&emsp;14. Iterator
+&emsp;&emsp;15. Observer
+&emsp;&emsp;16. Chain of Responsibility
+&emsp;&emsp;17. Command
+&emsp;&emsp;18. Memento
+&emsp;&emsp;19. Mediator
+&emsp;&emsp;20. State
+&emsp;&emsp;21. Visitor
+&emsp;&emsp;22. Strategy
+&emsp;&emsp;23. Template
+
 
 
 
