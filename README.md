@@ -1,4 +1,4 @@
- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Publications](#publications)&emsp;&emsp;&emsp;[Codes](#codes)
+ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Publications](#publications)&emsp;&emsp;&emsp;[Codes](#codes)&emsp;&emsp;&emsp;[Python](#python)
  
 
 ## About
@@ -40,6 +40,18 @@ I am currently a Senior Algorithms Development Scientist at [Nova Measuring Inst
 - Machine learning for processing Earth and Mars LIBS spectra
 
 - Approach for automatic fitting of emission lines in LIBS spectra.
+
+## Python 
+### Class Design Principles 
+When designinig a class in python, you should be guided by the SOLID principles:
+1. <span style="color:red">**S**</span>ingle responsibility
+2. <span style="color:red">**O**</span>pen to extension but closed to modification
+3. <span style="color:red">**L**</span>iskov substitution
+4. <span style="color:red">**I**</span>nterface segregation
+5. <span style="color:red">**D**</span>ependency inversion
+
+### Design Principles
+Knowing the design patterns allows you to easily write robust code using time-tested techniques. It also facilitates common-ground collaboration and communications among developers. I will cover the common 23 design patterns summarized by the Gang of Four.
 
 
 
