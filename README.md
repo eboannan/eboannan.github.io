@@ -52,6 +52,7 @@ When designinig a class in python, you should be guided by the SOLID principles:
 
 ### Design Patterns
 Knowing the design patterns allows you to easily write robust code using time-tested techniques. It also facilitates common-ground collaboration and communications among developers. I will cover the common 23 design patterns summarized by the Gang of Four:
+
 Creational:
 1. Factory
 2. Abstract Factory
@@ -60,25 +61,25 @@ Creational:
 6. Builder
 
 Structural:
-7. Adapter
-8. Bridge
-9. Composite
-10. Decorator
-11. Facade
-12. Flyweight
-13. Proxy
+1. Adapter
+2. Bridge
+3. Composite
+4. Decorator
+5. Facade
+6. Flyweight
+7. Proxy
 
 Behavioral:
-14. Iterator
-15. Observer
-16. Chain of Responsibility
-17. Command
-18. Memento
-19. Mediator
-20. State
-21. Visitor
-22. Strategy
-23. Template
+1. Iterator
+2. Observer
+3. Chain of Responsibility
+4. Command
+5. Memento
+6. Mediator
+7. State
+8. Visitor
+9. Strategy
+10. Template
 
 
 
