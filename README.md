@@ -43,11 +43,13 @@ I am currently a Senior Algorithms Development Scientist at [Nova Measuring Inst
 
 ## Python 
 ### Programming Lingo
-1. Cohesion
-2. Coupling
-3. Technical debt
+1. cohesion
+2. coupling
+3. technical debt
 4. REPL
-5. IDE
+5. IDE: Integrated Development Environment
+6. syntax: grammer rules of a programming language
+   
    
 ### Design Principles 
 When designinig a class in python, you should be guided by the SOLID principles:
