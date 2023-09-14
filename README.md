@@ -42,6 +42,13 @@ I am currently a Senior Algorithms Development Scientist at [Nova Measuring Inst
 - Approach for automatic fitting of emission lines in LIBS spectra.
 
 ## Python 
+### Programming Lingo
+1. Cohesion
+2. Coupling
+3. Technical debt
+4. REPL
+5. IDE
+   
 ### Class Design Principles 
 When designinig a class in python, you should be guided by the SOLID principles:
 1. <span style="color:red">**S**</span>ingle responsibility
