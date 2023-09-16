@@ -49,6 +49,12 @@ I am currently a Senior Algorithms Development Scientist at [Nova Measuring Inst
 4. REPL
 5. IDE: Integrated Development Environment
 6. syntax: grammer rules of a programming language
+7. race conditions
+8. duck typing: Python concept where objects are judged solely on their behavior.
+9. EAFP (Easy to As For Permission than Permission)
+10. LBYL (Look Before You Leap)
+11. pythonic
+12. interfaces
    
    
 ### Design Principles 
