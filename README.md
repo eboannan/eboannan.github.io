@@ -11,7 +11,7 @@ After my doctorate, I did a one year postdoc at the Optical Science Center for A
 
 I also did another postdoc at the University of Massachusetts, Lowell on using LIBS together with machine learning for the detection of melanoma cancer and Alzheimers using biological samples. I also did NASA-sponsored researches on; simulating the LIBS process, use of machine learning to preprocess LIBS spectra at scale and automating the fitting of emission lines in LIBS spectra.
 
-I am currently a Senior Algorithms Development Scientist at [Nova Measuring Instruments](https://www.novami.com/) where I write python and MATLAB codes to process XPS, XRF or SIMS data.
+I am currently a Senior Algorithms Development Scientist at [Nova Measuring Instruments](https://www.novami.com/) where I develop algorithms for XPS, XRF, SIMS, OCD and other technologies.
 
 ## Publications
 1. Berlo K., Xia W., Zwillich F., Gibbons E., Gaudiuso R., **Ewusi-Annan E.**, Chiklis G.R., Melikechi N. (2022) [Laser induced breakdown spectroscopy for the rapid detection of SARS-CoV-2 immune response in plasma](https://www.nature.com/articles/s41598-022-05509-z). Sci Rep 12, 1614.
